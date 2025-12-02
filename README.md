@@ -12,7 +12,7 @@ I'm a **product manager with a developer brain** — I don't just ship features,
 ## 🛠️ What I Build
 
 **Live Projects:**
-- 🏔️ **[ARK Adventures](https://arkadventures.ca)** — Scavenger hunts, adventure races, and immersive experiences across Toronto (2000+ participants, 100+ events)
+- 🏔️ **[ARK Adventures](https://arkadventures.ca)** — Scavenger hunts, adventure races, and immersive experiences across Toronto (15+ participants per event, 2 test runs and counting!)
 - 📧 **[Penguin Mail](https://github.com/radroid/penguin-mail)** — Email client purpose-built for VCs to manage dealflow
 - 💎 **Diamond Inventory System** — Automation platform for diamond polishing & inventory tracking
 
