@@ -1,37 +1,53 @@
-### Hi there 👋
+# 👋 I'm Raj — Generalist Builder
 
-I am a software engineer with a strong background in Mechanical Engineering, Nuclear Energy, Finance, and Data Science. With over two years of experience as a software engineer, I've honed my skills in Python, machine learning, data presentation, and cloud technologies. I have consistently focused on entrepreneurship, problem-solving and clear communication. I am here to discuss any business ideas, work on a project together, or discuss the future of industries: manufacturing, energy, IT, finance, entertainment, and AI.
+I architect **digital experiences** and design **physical adventures**. 
 
-I'm passionate about product management in the IT industry, where I can contribute to a team of individuals ready to tackle the world's biggest challenges. My goal is to work as a product manager, driving growth and innovation in tech-focused companies before eventually starting my venture.
+**Background:** Mechanical Engineering → Nuclear Energy → Full-Stack Development  
+**Current:** Founder at [ARK Adventures](https://arkadventures.ca) (adventure experiences for 2000+ participants) | Building [Penguin Mail](https://github.com/radroid/penguin-mail) (email client for VCs)
 
-My unique blend of technical expertise, effective communication, and structured work approach allows me to excel in fast-paced environments. I'm known for my adaptability, quick learning, and ability to convey complex technical concepts to expert developers and business stakeholders.
+I'm a **product manager with a developer brain** — I don't just ship features, I ship systems that solve real human problems.
 
-If you're interested in discussing the future of technology, AI, or product management, please reach out! Let's shape the future of tech together.
+---
 
-<!--
-**radroid/radroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ What I Build
 
-Here are some ideas to get you started:
+**Live Projects:**
+- 🏔️ **[ARK Adventures](https://arkadventures.ca)** — Scavenger hunts, adventure races, and immersive experiences across Toronto (2000+ participants, 100+ events)
+- 📧 **[Penguin Mail](https://github.com/radroid/penguin-mail)** — Email client purpose-built for VCs to manage dealflow
+- 💎 **Diamond Inventory System** — Automation platform for diamond polishing & inventory tracking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Makes People smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-[![powered by](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
-[![Built with](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
+**Tech Stack:** Next.js, TypeScript, Convex, Cloudflare Workers, Tailwind, shadcn  
+**Interests:** Web3, AI agents, offline-first PWAs, experiential design
 
-## What am I doing now?
-> _last modified: Jan 26, 2024_<br>
+---
 
+## 🧠 Philosophy
 
-I am currently working on integrating AI into some of my GitHub Projects. I do not intend to introduce AI into all repositories. I will add it only if they seem to be adding a creative edge.
+I believe the future belongs to **generalists who can orchestrate systems**, not specialists who optimize within silos.
 
-💡 If you have any ideas to implement AI, please do share through issues! Thank you for taking the time to contribute to my projects. Also, stay tuned to see some creative implementations! :bookmark:
+- Engineering teaches you **systems thinking**
+- Startups teach you **speed & pragmatism**
+- People teach you **what actually matters**
 
+I'm not here to write the perfect algorithm. I'm here to build things that make life more memorable.
 
+---
+
+## 🔥 Right Now (Dec 2025)
+
+- Launching **Penguin Mail** beta to VCs
+- Scaling **ARK Adventures** across North America
+- Experimenting with **AI agents** for event personalization
+- Building a portfolio that shows who I actually am
+
+---
+
+## 🌍 Let's Connect
+
+- 🐦 Twitter: [@radroid](https://twitter.com/radroid)
+- 🌐 Portfolio: Coming soon
+- 📧 Open to collaboration on experiential tech, Web3 projects, AI agent experiments, or just good conversations about generalism
+
+---
+
+> *"The best engineers in 2030 won't be the ones who code the fastest — they'll be the ones who architect systems that code themselves."*
