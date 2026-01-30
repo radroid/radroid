@@ -1,12 +1,13 @@
-# 👋 I'm Raj — Generalist Builder
+# 👋 I'm Raj — Builder
 
-I architect **digital products** and design **physical experiences**. I graduated from University in 2019 and have been on an adventure since. 
+I graduated from University in 2019 and have been on an adventure since. 
 
-Today, I am looking for **full-stack engineer** or **product engineer** roles at `startups` or `mid-size companies`.
+Today, I am looking for **full-stack engineer** or **product engineer** roles at **startups** and **mid-size** companies.
 
 ---
 
-**Background:** Nuclear Engineering → Data Scientist → Application Development → Technical Founder → Full-stack engineer
+> **Background:** Nuclear Engineering → Data Scientist → Application Development → Technical Founder → Full-stack engineer
+
 **Current:** Co-founder at [ARK Experiences](https://funwithark.ca) (competitive, outdoor, city experiences for communities, corporate events & tourists)
 
 I'm a **product manager with a developer brain** — I don't just ship features, I ship systems that solve real human problems.
