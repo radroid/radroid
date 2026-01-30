@@ -1,29 +1,35 @@
 # 👋 I'm Raj — Generalist Builder
 
-I architect **digital experiences** and design **physical adventures**. 
+I architect **digital products** and design **physical experiences**. I graduated from University in 2019 and have been on an adventure since. 
 
-**Background:** Mechanical Engineering → Nuclear Energy → Full-Stack Development  
-**Current:** Founder at [ARK Adventures](https://arkadventures.ca) (adventure experiences for 2000+ participants) | Building [Penguin Mail](https://github.com/radroid/penguin-mail) (email client for VCs)
+Today, I am looking for **full-stack engineer** or **product engineer** roles at `startups` or `mid-size companies`.
+
+---
+
+**Background:** Nuclear Engineering → Data Scientist → Application Development → Technical Founder → Full-stack engineer
+**Current:** Co-founder at [ARK Experiences](https://funwithark.ca) (competitive, outdoor, city experiences for communities, corporate events & tourists)
 
 I'm a **product manager with a developer brain** — I don't just ship features, I ship systems that solve real human problems.
+
+I shipped a Next.js web application within a week for ARK experiences. 
 
 ---
 
 ## 🛠️ What I Build
 
 **Live Projects:**
-- 🏔️ **[ARK Adventures](https://arkadventures.ca)** — Scavenger hunts, adventure races, and immersive experiences across Toronto (15+ participants per event, 2 test runs and counting!)
-- 📧 **[Penguin Mail](https://github.com/radroid/penguin-mail)** — Email client purpose-built for VCs to manage dealflow
-- 💎 **Diamond Inventory System** — Automation platform for diamond polishing & inventory tracking
+- 🏔️ **[ARK Experiences](https://funwithark.ca)** — `The Amazing Race`-themed immersive experiences across Toronto (10+ participants per event, 3 test runs and counting!)
+- 📧 **[Penguin Mail](https://github.com/radroid/penguin-mail)** — a modern Email client.
+- 💎 **Diamond Inventory System** — Automation platform for diamond polishing & inventory tracking.
 
-**Tech Stack:** Next.js, TypeScript, Convex, Cloudflare Workers, Tailwind, shadcn  
-**Interests:** Web3, AI agents, offline-first PWAs, experiential design
+**Tech Stack:** TypeScript, React.js, Next.js, Tanstack Start, Convex, Supabase, Cloudflare Workers, TailwindCSS, shadcn 
+**Interests:** Web3, AI agent workflows, offline-first PWAs, experiential design, n8n
 
 ---
 
 ## 🧠 Philosophy
 
-I believe the future belongs to **generalists who can orchestrate systems**, not specialists who optimize within silos.
+I believe the future belongs to **generalists who can work in teams to build systems**.
 
 - Engineering teaches you **systems thinking**
 - Startups teach you **speed & pragmatism**
@@ -33,20 +39,21 @@ I'm not here to write the perfect algorithm. I'm here to build things that make 
 
 ---
 
-## 🔥 Right Now (Dec 2025)
+## 🔥 Right Now (January 2026)
 
-- Launching **Penguin Mail** beta to VCs
-- Scaling **ARK Adventures** across North America
-- Experimenting with **AI agents** for event personalization
-- Building a portfolio that shows who I actually am
+- Applying for jobs in Toronto & Remote | NPX | Supabase | Google | Cursor
+- Refreshing my GitHub
+- Preparing **ARK Experiences** for Launch in May 2026.
+- Building **AI agents** for workflow automations
 
 ---
 
 ## 🌍 Let's Connect
 
-- 🐦 Twitter: [@radroid](https://twitter.com/radroid)
-- 🌐 Portfolio: Coming soon
-- 📧 Open to collaboration on experiential tech, Web3 projects, AI agent experiments, or just good conversations about generalism
+- 🐦 X: [@curlycloud__](https://x.com/curlycloud__)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/raj-dholakia)
+- 🌐 [Portfolio](https://curlycloud.dev/)
+- 📧 Open to collaboration on experiential tech, Web3 projects, AI agent experiments, or just good conversations about impact of tech across energy and manufacturing.
 
 ---
 
