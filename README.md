@@ -10,7 +10,7 @@ Today, I am looking for **full-stack engineer** or **product engineer** roles at
 
 **Current:** Co-founder at [ARK Experiences](https://funwithark.ca) (competitive, outdoor, city experiences for communities, corporate events & tourists)
 
-I'm a **product manager with a developer brain** — I don't just ship features, I ship systems that solve real human problems.
+I'm a **full-stack developer with a product mindset** — I don't just ship features, I ship systems that solve real human problems.
 
 I shipped a Next.js web application within a week for ARK experiences. 
 
